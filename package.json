@@ -1,0 +1,24 @@
+{
+  "name": "javascript-22-5b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/difo23/curso-js.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "basic"
+  ],
+  "author": "Lizandro Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/difo23/curso-js/issues"
+  },
+  "homepage": "https://github.com/difo23/curso-js#readme"
+}
