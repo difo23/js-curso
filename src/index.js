@@ -45,3 +45,4 @@ const saludar = (nombre) => {
 const user = "Juancho";
 
 saludar(user)
+
