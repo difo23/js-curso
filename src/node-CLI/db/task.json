@@ -1,0 +1,12 @@
+{
+    "new": {
+        "title": "new",
+        "desc": "Crear nueva nota",
+        "completed": false
+    },
+    "Marca": {
+        "title": "Marca",
+        "desc": "Crear nueva nota",
+        "completed": false
+    }
+}
