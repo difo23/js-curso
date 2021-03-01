@@ -31,7 +31,12 @@ Prof. Remote Repo link : https://github.com/difo23/js-curso-xx-5x.git
   * [x] Instalar **colors** con el comando ```npm i colors``` cambio install por i. 
   * [x] Confirmar mi **package.json** tenga las dependencias de **yargs** y **colors**.
 * [ ] Crear el archivo **node-CLI/app.js**
-* [ ] 
+
+* [ ] Crear directorio **tools** con **index.js**
+  * [ ] Crear **argvs.js**
+  * [ ] Crear **files.js**
+  * [ ] Crear **options.js**
+  * [ ] Crear **task.js**
 * [ ] Realizar validaciones con Yargs.
 * [ ] Crear ayuda automatica de nuestros comandos.
 * [ ] Grabar en FileSystem.
