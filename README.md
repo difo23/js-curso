@@ -34,13 +34,29 @@ Prof. Remote Repo link : https://github.com/difo23/js-curso-xx-5x.git
   * [ ] Usar comando **git commit -am "Instalar paquetes Yargs y Colors"**
   * [ ] Usar comando **git push** para subir mis cambios al remoto.
 * [ ] Crear el archivo **node-CLI/app.js**
+  * [ ] Hacemos **git add .**
+  * [ ] Hacemos **git commit -am "Crea app.js"**
+  * [ ] Hacemos **git push**
 * [ ] Crear directorio **node-CLI/tools** con **index.js**
   * [ ] Crear **node-CLI/tools/argvs.js**
   * [ ] Crear **node-CLI/tools/files.js**
   * [ ] Crear **node-CLI/tools/options.js**
   * [ ] Crear **node-CLI/tools/task.js**
+  * [ ] Hacemos **git add .**
+  * [ ] Hacemos **git commit -am "Crea tools settings"**
+  * [ ] Hacemos **git push**
 * [ ] Empezamos a trabajar con **files.js**
-  * [ ] Usamos el paquete **path** para la ruta de nuestros archivos.
+  * [ ] Importamos paquetes **path** y **Colors**.
+  * [ ] Usamos paquetes importados en nuestro codigo con la funcion **loadTask()**
+  * [ ] Exportamos nuestra funcion **loadTask()**
+  * [ ] Hacemos **git add .**
+  * [ ] Hacemos **git commit -am "Crea funcion loadTask()"**
+  * [ ] Hacemos **git push**
+  * [ ] Usamos paquetes importados en nuestro codigo con la funcion **saveTask()**
+  * [ ] Exportamos nuestra funcion **saveTask()**
+  * [ ] Hacemos **git add .**
+  * [ ] Hacemos **git commit -am "Crea funcion saveTask()"**
+  * [ ] Hacemos **git push**
 * [ ] Realizar validaciones con Yargs.
 * [ ] Crear ayuda automatica de nuestros comandos.
 * [ ] Grabar en FileSystem.
