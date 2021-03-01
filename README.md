@@ -38,7 +38,8 @@ Prof. Remote Repo link : https://github.com/difo23/js-curso-xx-5x.git
   * [ ] Hacemos **git add .**
   * [ ] Hacemos **git commit -am "Crea app.js"**
   * [ ] Hacemos **git push**
-* [ ] Crear directorio **node-CLI/tools** con **index.js**
+* [ ] Crear directorio **node-CLI/tools** con 
+  * [ ] Crear **node-CLI/tools/index.js**
   * [ ] Crear **node-CLI/tools/argvs.js**
   * [ ] Crear **node-CLI/tools/files.js**
   * [ ] Crear **node-CLI/tools/options.js**
