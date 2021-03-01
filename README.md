@@ -34,8 +34,13 @@ Prof. Remote Repo link : https://github.com/difo23/js-curso-xx-5x.git
   * [ ] Usar comando **git commit -am "Instalar paquetes Yargs y Colors"**
   * [ ] Usar comando **git push** para subir mis cambios al remoto.
 * [ ] Crear el archivo **node-CLI/app.js**
-  * [ ] Crear primer comando con yargs.  
-  * [ ] Crear config de yargs.
+* [ ] Crear directorio **node-CLI/tools** con **index.js**
+  * [ ] Crear **node-CLI/tools/argvs.js**
+  * [ ] Crear **node-CLI/tools/files.js**
+  * [ ] Crear **node-CLI/tools/options.js**
+  * [ ] Crear **node-CLI/tools/task.js**
+* [ ] Empezamos a trabajar con **files.js**
+  * [ ] Usamos el paquete **path** para la ruta de nuestros archivos.
 * [ ] Realizar validaciones con Yargs.
 * [ ] Crear ayuda automatica de nuestros comandos.
 * [ ] Grabar en FileSystem.
