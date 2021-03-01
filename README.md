@@ -23,6 +23,7 @@ Prof. Remote Repo link : https://github.com/difo23/js-curso-xx-5x.git
 
 ## Temas puntuales:
 
+<<<<<<< HEAD
 * [ ] Instalar paquetes de codigo con NPM.
   * [ ] Instalar **yargs** con el comando ```npm install yargs``` 
   * [ ] Agregar archivo **.gitignore**.
@@ -57,6 +58,7 @@ Prof. Remote Repo link : https://github.com/difo23/js-curso-xx-5x.git
   * [ ] Hacemos **git add .**
   * [ ] Hacemos **git commit -am "Crea funcion saveTask()"**
   * [ ] Hacemos **git push**
+
 * [ ] Realizar validaciones con Yargs.
 * [ ] Crear ayuda automatica de nuestros comandos.
 * [ ] Grabar en FileSystem.
