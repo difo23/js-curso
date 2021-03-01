@@ -30,6 +30,9 @@ Prof. Remote Repo link : https://github.com/difo23/js-curso-xx-5x.git
   * [ ] Editar archivo **.gitignore** para ignorar el archivo **package-lock.json**
   * [ ] Instalar **colors** con el comando ```npm i colors``` cambio install por i. 
   * [ ] Confirmar mi **package.json** tenga las dependencias de **yargs** y **colors**.
+  * [ ] Usar comando **git add .** para preparar los cambios.
+  * [ ] Usar comando **git commit -am "Instalar paquetes Yargs y Colors"**
+  * [ ] Usar comando **git push** para subir mis cambios al remoto.
 * [ ] Crear el archivo **node-CLI/app.js**
   * [ ] Crear primer comando con yargs.  
   * [ ] Crear config de yargs.
