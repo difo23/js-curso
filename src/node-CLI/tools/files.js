@@ -7,7 +7,6 @@ const path = require('path');
 // Guardamos el path a nuestro archivo task.json
 const filePath = path.join(__dirname, '../db/task.json');
 
-
 // Funcion para cargar task desde task.json
 const loadTask = () => {
     let listTask = {};
@@ -40,7 +39,6 @@ const saveTask = (listTask) => {
     })
 
 }
-
 
 module.exports = {
     loadTask,

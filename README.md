@@ -56,13 +56,13 @@ El objetivo de este programa es crear el tipico TODO-List que sin duda es una de
 ### Lab 8.3 Trabajando con ficheros en Node
 * [ ] Empezamos a trabajar con **files.js**
   * [ ] Importamos paquetes **path** y **Colors**
-  * [ ] Usamos paquetes importados en nuestro codigo con la funcion **loadTask()**
+* [ ] Usamos paquetes importados en nuestro codigo con la funcion **loadTask()**
   * [ ] Exportamos nuestra funcion **loadTask()**
   * [ ] Pruebas de loadTask
   * [ ] Hacemos **git add .**
   * [ ] Hacemos **git commit -am "Crea funcion loadTask()"**
   * [ ] Hacemos **git push**
-  * [ ] Usamos paquetes importados en nuestro codigo con la funcion **saveTask()**
+* [ ] Usamos paquetes importados en nuestro codigo con la funcion **saveTask()**
   * [ ] Exportamos nuestra funcion **saveTask()**
   * [ ] Pruebas de saveTask
   * [ ] Hacemos **git add .**
