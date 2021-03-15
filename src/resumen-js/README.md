@@ -45,7 +45,8 @@
 * [ ] Conceptos de algoritmos con diagrama de flujo.
 * [ ] Uso de VSC y herramientas de Debugging con Node y Chrome.
 * [ ] Conceptos de GUI, CLI y API.
-* [ ] Uso basico de Git y GitHub.
+* [ ] Uso basico de la terminal.
+* [ ] Uso basico de Git, GitHub y MarkDown.
 * [ ] Conceptos basicos de variables y tipos de datos.
 * [ ] Conceptos de operadores.
 * [ ] Conceptos de scope o alcance global y local.
