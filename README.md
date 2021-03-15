@@ -24,6 +24,9 @@ Prof. Remote Repo link : `https://github.com/difo23/js-curso-xx-5x.git`
 * [ ] Conceptos de bloques para funciones.
 * [ ] Estructuras de datos basicas arreglo, objeto-tabla-hash y lista enlazada.
 * [ ] Concepto de bloques para clases.
+* [ ] Primeros pasos con NodeJs y NPM.
+* [ ] Crear aplicaciones CLI con node.
+* [ ] Entrega final proyectos (repo en github) y portafolio (fisico) de conceptos basicos de JS
 
 
 
