@@ -51,7 +51,7 @@ Prof. Remote Repo link : `https://github.com/difo23/js-curso-xx-5x.git`
   * [ ] Luego ejecuta el comando (mismo correo de tu cuenta de github): `git config  --global  user.email tu_correo@gmail`
   * [ ] Siguiente comando: `git config  --global init.defaultBranch main`
   * [ ] Comprobacion de que todo fue configurado: `git config  --global  --list`
-  * [ ] Ejemplo de la salida del ultimo comando:
+  * [ ] Ejemplo de la salida del ultimo comando:    
         ```
             user.email=diffozanzan@gmail.com
             user.name=difo23
