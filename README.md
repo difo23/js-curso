@@ -52,12 +52,12 @@ Prof. Remote Repo link : `https://github.com/difo23/js-curso-xx-5x.git`
   * [ ] Siguiente comando: `git config  --global init.defaultBranch main`
   * [ ] Comprobacion de que todo fue configurado: `git config  --global  --list`
   * [ ] Ejemplo de la salida del ultimo comando:    
-        ```
-            user.email=diffozanzan@gmail.com
-            user.name=difo23
-            merge.conflictstyle=diff3
-            credential.helper=cache --timeout=3600
-            init.defaultbranch=main
+        ```js
+            user.email=diffozanzan@gmail.com   
+            user.name=difo23   
+            merge.conflictstyle=diff3   
+            credential.helper=cache --timeout=3600  
+            init.defaultbranch=main   
         ```
     * [ ] Adjunta printScreen de la terminal como evidencia.
 * [ ] Comprobar las instalaciones:
