@@ -39,3 +39,19 @@
 22. No usar espacios en blancos, letras del abcdario en espanol. 
 23. Entrega del portafolio al final del curso, pero revisiones semanales por foto enviada al whatsaap todo los viernes con su nombre y numero. 
 
+
+## Temario del Curso:
+
+* [ ] Conceptos de algoritmos con diagrama de flujo.
+* [ ] Uso de VSC y herramientas de Debugging con Node y Chrome.
+* [ ] Conceptos de GUI, CLI y API.
+* [ ] Uso basico de Git y GitHub.
+* [ ] Conceptos basicos de variables y tipos de datos.
+* [ ] Conceptos de operadores.
+* [ ] Conceptos de scope o alcance global y local.
+* [ ] Conceptos de bloques condicionales.
+* [ ] Conceptos de bloques para ciclos.
+* [ ] Conceptos de bloques para funciones.
+* [ ] Estructuras de datos basicas arreglo, objeto-tabla-hash y lista enlazada.
+* [ ] Concepto de bloques para clases.
+
