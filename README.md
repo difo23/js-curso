@@ -1,21 +1,27 @@
 # Curso inicial para desarrollo de aplicaciones con JS.
 
-## Lab # 1: Enlazando mi proyecto con GitHub:
- Nota: Los archivos `*.md`  estan escritos en lenguaje `MarkDown`
+Curso basico de desarrollo de aplicaciones con JS. El objetivo de este curso es preparar al estudiante para inicial su carrera como desarrollador de software con todas las herramientas esenciales para este trabajo. 
+
+Nota: Los archivos `*.md`  estan escritos en lenguaje `MarkDown`
 
 Prof. Remote Repo link : `https://github.com/difo23/js-curso-xx-5x.git`
 
 
-## TODO-LIST:
- * [x] Crear cuenta en GitHub.
- * [x] Crear un repositorio en GitHub - Nombre del repo = `js-curso-numero-5x`.
- * [x] Durante la creacion del repo no agregar README.md, gitignore ni licencia
- * [x] Muevete a tu pc y crear carpeta `js-curso`  dento de la carpeta `Documents`. 
- * [x] Abrimos la carpeta `js-curso` en VSC y abrimos la terminal.
- * [x] Ejecutamos el comando `clonar` repositorio de git en mi PC: `git clone url_github .` , si el punto es importante y tiene un espacio de separacion. 
- * [x] Creamos un archivo `README.md` y la carpeta `src`.
- * [x] Agregar cambios a la zona de preparacion con el comando: `git add .` 
- * [x] Confirmar los cambios con comando: `git commit -am "Primer commit remoto"`
- * [x] Subir mis cambios al remoto usando: `git push -u origin main` o `git push` para las posteriores subidas.
- * [x] Comprobar que mi remoto tenga los ultimos cambios agregados.
-  
+
+## Temario del Curso:
+
+* [ ] Conceptos de algoritmos con diagrama de flujo.
+* [ ] Uso de VSC y herramientas de Debugging con Node y Chrome.
+* [ ] Conceptos de GUI, CLI y API.
+* [ ] Uso basico de la terminal con `bash`.
+* [ ] Conceptos basicos del DOM. 
+* [ ] Relacion entre JS, HTML y el DOM con el objeto `documents`.
+* [ ] Uso basico de Git, GitHub y MarkDown.
+* [ ] Conceptos basicos de variables y tipos de datos.
+* [ ] Conceptos de operadores.
+* [ ] Conceptos de scope o alcance global y local.
+* [ ] Conceptos de bloques condicionales.
+* [ ] Conceptos de bloques para ciclos.
+* [ ] Conceptos de bloques para funciones.
+* [ ] Estructuras de datos basicas arreglo, objeto-tabla-hash y lista enlazada.
+* [ ] Concepto de bloques para clases.
