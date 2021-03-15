@@ -2,7 +2,7 @@
 # Lab #2: Conceptos basicos del DOM.
 
 
-* [ ] Dentro de la carpeta `src`
+* [ ] Dentro de la carpeta `src/lab-#2-DOM/`
 * [ ] Crear archivo `index.html`
 * [ ] Crear archivo `index.js`
 * [ ] Enlazar el archivo `html` con `js` usando etiqueta `script`
