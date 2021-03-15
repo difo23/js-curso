@@ -2,7 +2,13 @@
 
 Curso basico de desarrollo de aplicaciones con JS. El objetivo de este curso es preparar al estudiante para inicial su carrera como desarrollador de software con todas las herramientas esenciales para este trabajo. 
 
-Nota: Los archivos `*.md`  estan escritos en lenguaje `MarkDown`
+Nota: Los archivos `*.md`  estan escritos en lenguaje `MarkDown`.
+
+
+## Repositorio del maestro:
+El objetivo es que crees tu propio repositorio siguiendo las indicaciones del curso. Usa el repositorio del maestro como referencia, no sufras la tentacion del copy-paste que suele tentar al desarrollador jr. Recuerda siempre escribir tu mismo el codigo y los README.md, esto te ayudara a sentirte comodo con los lenguajes y el teclado de tu pc. Al igual la parte del portafolio para escribir codigo a mano te servira de complemento para aprender la sintaxis de JS en una forma instintiva. 
+
+Manos a la obra! 
 
 Prof. Remote Repo link : `https://github.com/difo23/js-curso-xx-5x.git`
 
