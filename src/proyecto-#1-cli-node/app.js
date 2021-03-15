@@ -13,18 +13,18 @@ const command = argv._[0];
 switch (command) {
 
     case 'create':
-        // Comando create ejecutado creo una nueva nota en mi tasks.md
+        // Comando create ejecutado creo una nueva nota en mi tasks.json
         let task = tasks.createTask(argv.title, argv.description)
         console.log("Tarea created: ".blue, task)
         break;
 
     case 'update':
-        // Comando create ejecutado creo una nueva nota en mi tasks.md
+        // Comando create ejecutado creo una nueva nota en mi tasks.json
         tasks.updateTask(argv.title);
         break;
 
     case 'delete':
-        // Comando create ejecutado creo una nueva nota en mi tasks.md
+        // Comando create ejecutado creo una nueva nota en mi tasks.json
         tasks.eraseTask(argv.title);
         break;
 
