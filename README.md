@@ -103,12 +103,12 @@ Prof. Remote Repo link : `https://github.com/difo23/js-curso-xx-5x.git`
   * [ ] COMO CREAR HISTORIAS DE USUARIO EN SCRUM `(0.5 pts)`
 
 * [ ] Curso de JavaScript en SoloLearn `( 7 pts )`
-  * [ ] Cada tema con su cuestionario. 
   * [ ] Overview del curso. `(1 pts)`
   * [ ] Conceptos basicos.`(1 pts)`
   * [ ] Condiciones y ciclos.`(1 pts)`
-  * [ ] Funciones.`(2 pts)`
-  * [ ] Objetos.`(2 pts)` 
+  * [ ] Funciones.`(1 pts)`
+  * [ ] Objetos.`(1 pts)`
+  * [ ] DOM y Eventos. `( 2 pts )` 
  
  * [ ] Curso gratis de programacion Platzi `(10 pts)`
    * [ ] Resumen de cada video. `(2 pts)` 
@@ -133,7 +133,7 @@ Prof. Remote Repo link : `https://github.com/difo23/js-curso-xx-5x.git`
 * [ ] Proyecto #2: Portafolio de conceptos basicos fisico y digital. `(6 pts)`
 * [ ] Proyecto final: Libre eleccion. `(8 pts)`
 
-
+Nota: Los cursos y los laboratorios son temas que sea auto complementan. 
 
 
 
