@@ -11,9 +11,9 @@ Resumen variables y entornos de bloque.
      Fin: 
   
 * [x] Declaracion y uso de variables.
-* [ ] Mostrar error de declaracion.
+* [x] Mostrar error de declaracion.
 * [ ] Error sintactico, semantico y logico.
-* [ ] Bloque condicional `if`.
-* [ ] Diferencias entre entorno `local` y `global`.
-* [ ] Diferencia entre variables `let` y `var`.
+* [x] Bloque condicional `if`.
+* [x] Diferencias entre entorno `local` y `global`.
+* [x] Diferencia entre variables `let` y `var`.
 * [ ] Diferencias entre variables `let` y `var` con `const`.
