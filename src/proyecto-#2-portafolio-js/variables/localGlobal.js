@@ -1,8 +1,11 @@
 
-// Tema 2: Entorno locales y globales
+// Tema 2: Entornos locales y globales
+// Jueves 18/03/2021
 // Diferencia entre var y let
+
 // let nombre = 'Pepe'; // Error al estar en el mismo entorno
 // var nombre = 'juan'; // Aqui ocurre el error.
+
 if (true) {
 
     // Entorno local del if
