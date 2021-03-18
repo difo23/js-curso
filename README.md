@@ -16,6 +16,11 @@ Prof. Remote Repo link : `https://github.com/difo23/js-curso-xx-5x.git`
 ## Temario del Curso:
 
 * [ ] Conceptos de algoritmos con diagrama de flujo.
+* [ ] Sistemas de numeracion.
+* [ ] Logica combinatoria.
+* [ ] Lenguaje de programacion.
+* [ ] Paradigmas de programacion.
+* [ ] JavaScript.
 * [ ] Uso de VSC y herramientas de Debugging con Node y Chrome.
 * [ ] Conceptos de GUI, CLI y API.
 * [ ] Uso basico de la terminal con `bash`.
@@ -35,55 +40,57 @@ Prof. Remote Repo link : `https://github.com/difo23/js-curso-xx-5x.git`
 * [ ] Entrega final proyectos (repo en github) y portafolio (fisico) de conceptos basicos de JS
 
 
+## Evaluacion:
 
-## Lab # 0: Instalaciones y configuracion inicial.
+### Introduccion `( 25 pts)`:
 
-* [ ] Instalar `Visual Studio Code` (vsc)
-* [ ] Instalar `VIM` (Editor por terminal)
-* [ ] Instalar `Git` y `Git bash` se instalan juntos como uno solo.
-* [ ] Instalar `Node` runtime para JS. 
-* [ ] Junto con node se instala `npm` y `npx`. 
-* [ ] Crear cuenta en GitHub.
-* [ ] Instalar `Google Chrome`
-* [ ] Configura `Git` por primera vez.
-  * [ ] Abre la terminal `git bash`
-  * [ ] Ejecuta el comando: `git config  --global  user.name  tu_user_github`
-  * [ ] Luego ejecuta el comando (mismo correo de tu cuenta de github): `git config  --global  user.email tu_correo@gmail`
-  * [ ] Siguiente comando: `git config  --global init.defaultBranch main`
-  * [ ] Comprobacion de que todo fue configurado: `git config  --global  --list`
-  * [ ] Ejemplo de la salida del ultimo comando:    
-```js
-    user.email=diffozanzan@gmail.com   
-    user.name=difo23   
-    merge.conflictstyle=diff3   
-    credential.helper=cache --timeout=3600  
-    init.defaultbranch=main   
-```
-    * [ ] Adjunta printScreen de la terminal como evidencia.
-* [ ] Comprobar las instalaciones:
-    * [ ] Debe salirte un numero de version para todos los comandos siguientes.
-    * [ ] Ejecuta el comando: `git --version` 
-    * [ ] Ejecuta el comando: `node --version`
-    * [ ] Ejecuta el comando: `npm --version`
-    * [ ] Adjunta a la evidencia un prinScreen de la terminal con todas las versiones visibles.   
-* [ ] Entra a VSC y cambia su terminal por default a `git bash`.
-* [ ] Recuerda reiniciar VSC para que tome la nueva terminal por default
-* [ ] Adjunta un printscreen de VSC con la terminal abierta y los colores de `git bash`
-
-Nota: Si usas `linux ` algunas te recomiendo usar `zsh` como interprete de terminal.
-
-
-## Lab # 1: Enlazando mi proyecto con GitHub:
- 
- * [ ] Crear un repositorio en GitHub - Nombre del repo = `js-curso-numero-5x`.
- * [ ] Durante la creacion del repo no agregar README.md, gitignore ni licencia
- * [ ] Muevete a tu pc y crear carpeta `js-curso`  dento de la carpeta `Documents`. 
- * [ ] Abrimos la carpeta `js-curso` en VSC y abrimos la terminal.
- * [ ] Ejecutamos el comando `clonar` repositorio de git en mi PC: `git clone url_github .` , si el punto es importante y tiene un espacio de separacion. 
- * [ ] Creamos un archivo `README.md` y la carpeta `src`.
- * [ ] Agregar cambios a la zona de preparacion con el comando: `git add .` 
- * [ ] Confirmar los cambios con comando: `git commit -am "Primer commit remoto"`
- * [ ] Subir mis cambios al remoto usando: `git push -u origin main` o `git push` para las posteriores subidas.
- * [ ] Comprobar que mi remoto tenga los ultimos cambios agregados.
- * [ ] Agrega como evidencia un printscreen de tu repo en GitHub con las ultimas actualizaciones.
+* [ ] Concepto de algoritmos: `Total ( 8 pts)`
+  * [ ] Teoria sobre algorimtos `(1 pts)`.
+  * [ ] Problemas de logica: `(7 pts)`
+    * [ ] El problema de los prisioneros. `(1 pts)`
+    * [ ] El problema de la bomba. `(1 pts)`
+    * [ ] Problema de los relojes de arena. `(2 pts)`
+    * [ ] Problema del cumpleanos. `(3 pts)` 
   
+* [ ] Diagrama de flujo: `Total (8 pts)`
+  * [ ] Teoria de DF `(2 pts)`
+  * [ ] Realizar los problemas de logica usando DF `(6 pts)`
+
+* [ ] Sistemas de numeracion: `Total (9 pts)`
+  * [ ]  Teoria sobre sistemas de numeracion: `(2pts)`
+    * [ ] Sistemas posicionales y no posicionales (Decimal y Romano) `(1 pts)` 
+    * [ ] Concepto de base, posicion y simbolo. `( 1 pts)`
+  * [ ] Conversiones entre sistemas Decimal, Binario y Hexadecimal. `(3 pts)`
+  * [ ] Crear mi propio sistema de numeracion (grupo de 3)  `(4 pts)`
+
+
+### Cursos: `(25 pts)`
+
+* [ ] Curso de Visual Studio Code (VSC) como IDE (Entorno de Desarrollo Integrado) em Udemy: `(5 pts)`
+  * [ ] Url al curso:  
+  * [ ] Resumen del curso por video `(2 pts)`
+  * [ ] Cuestionario sobre el curso `(2 pts)`
+  * [ ] Participacion y opinion sobre el curso `(1 pts)`
+
+* [ ] Curso Git y GitHub basico: `(5 pts)`
+  * [ ] Conceptos practicos basicos: `(2 pts)`
+    * [ ] Crear cuenta de GitHub `(0.4 pts)`
+    * [ ] Crear primer repositorio en GitHub `(0.4 pts)`
+    * [ ] Instalar git, git bash y GitHub CLI `(0.4 pts)`
+    * [ ] Clonar primer tu repositorio usando git bash `(0.4 pts)`
+    * [ ] Hacer los comandos basicos de descargar (pull) , agregar (add), confirmar (commits) y subir (push) `(0.4 pts)`
+  * [ ] Curso de Git y GitHub (Platzi parte gratuita): `(3 pts)`
+    * [ ] Resumen de los videos gratuitos del curso. `(1 pts)` 
+    * [ ] Cuestionario sobre los video del curso. `(1 pts)`
+    * [ ] Participacion y opinion sobre el curso.  `(1 pts)`
+
+
+
+### Labs:
+
+### Proyectos:
+
+
+
+
+
