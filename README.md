@@ -45,27 +45,17 @@ Prof. Remote Repo link : `https://github.com/difo23/js-curso-xx-5x.git`
 ### Introduccion `( 20 pts)`:
 
 * [ ] Concepto de algoritmos: `Total ( 5 pts)`
- 
 * [ ] Diagrama de flujo: `Total (4 pts)`
-
 * [ ] Sistemas de numeracion: `Total (6 pts)`
-
 * [ ] Logica combinacional: `(5 pts)`
   
-
-
 ### Cursos: `(30 pts)`
 
 * [ ] Curso de Visual Studio Code (VSC) como IDE (Entorno de Desarrollo Integrado) em Udemy: `(3 pts)`  
-
 * [ ] Curso Git y GitHub basico: `(5 pts)`
-  
 * [ ] Curso basico de Bash  (Command Line Interface) (CLI) `(3 pts)`
-
 * [ ] Curso basico de metodologias Agiles (SCRUM) `(2 pts)`
- 
 * [ ] Curso de JavaScript en SoloLearn `( 7 pts )`
-
 * [ ] Curso gratis de programacion Platzi `(10 pts)`
 
 
