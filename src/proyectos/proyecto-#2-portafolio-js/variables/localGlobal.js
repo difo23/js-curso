@@ -22,3 +22,4 @@ if (true) {
     let nombre = ' juan ';
     console.log(nombre); //1 Imprime juan
 }
+console.log(nombre); //1 Imprime Maria
