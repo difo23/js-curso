@@ -17,3 +17,4 @@ Resumen variables y entornos de bloque.
 * [x] Diferencias entre entorno `local` y `global`.
 * [x] Diferencia entre variables `let` y `var`.
 * [ ] Diferencias entre variables `let` y `var` con `const`.
+* [ ] Operadores logicos `and (&&)`, `or (||)` y `not (!)`
