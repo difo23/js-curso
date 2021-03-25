@@ -5,12 +5,12 @@
 // let nombre = 'Pepe'; // Error al estar en el mismo entorno
 // var nombre = 'juan'; // Aqui ocurre el error.
 //if #1
-if (false) {
+if (true) {
     console.log("Dentro del bloque local if #1")
     // Entorno local del if
     var nombre = ' Maria ';
     console.log(nombre); //1 Imprime maria
-    
+
 }
 // Entorno global 
 console.log(nombre);//2 Imprime Maria
