@@ -5,8 +5,6 @@
   * [ ] Cuestionario sobre el curso `(1 pts)`
   * [ ] Participación y opinión sobre el curso `(1 pts)`
 
-
-
 ## Instalación:  Visual Studio Code 
 
 Descarga la versión de [Visual Studio Code](https://code.visualstudio.com/download) que se adapte a tu máquina.
@@ -23,6 +21,10 @@ Nota: Antes de empezar el curso de Falcon Masters debes tener Git Bash y VSC ins
 4. [Tutorial Como Utilizar Git en Visual Studio Code [4/5]](https://youtu.be/jPQQISFOkRE)
 5. [Tutorial Como Crear y Utilizar Snippets en VS Code [5/5]](https://youtu.be/N8hbZVUJ6BY)
 
+### Curso opcional gratis en `UDEMY` : 
+
+[Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) su autor es Fernando Herrera, este es un curso completo sobre el uso de **VSC**,  este curso podrás explorar todos los atajos de teclado mencionados en el cuestionario. 
+
 ### Cuestionario sobre el curso:
 
 1. Investiga los atajos de teclado mas usados en VSC.
@@ -32,16 +34,20 @@ Nota: Antes de empezar el curso de Falcon Masters debes tener Git Bash y VSC ins
    * Atajo de teclado para comentar una linea de código.
    * Atajo de teclado para borrar una linea.
    * Utilizar múltiple cursores.
-2.  Investiga sobre [Emmet Doc](https://docs.emmet.io/abbreviations/syntax/) como usarlo para aumentar la velocidad al escribir `HTML.` 
-3.  Diferencias entre `!` y `!!!` en un archivo `html` usando Emmet.
+   
+2. Investiga sobre [Emmet Doc](https://docs.emmet.io/abbreviations/syntax/) como usarlo para aumentar la velocidad al escribir `HTML.` 
 
-Ejemplo de Emment:
+3. Diferencias entre `!` y `!!!` en un archivo `html` usando Emmet.
+
+   
+
+## Ejemplo de Emment:
 
 Puedes usar el operador `>` (child o hijo) para anidar elementos uno dentro del otro.
 ```bash
 div>ul>li
 
-Al escribir lo anterior en el editor tendras el siguiente codigo 'un div con un hijo ul con un hijo li'. Debes asegurarte que tu archivo tenga extension .html
+Al escribir lo anterior en el editor Vtendras el siguiente codigo 'un div con un hijo ul con un hijo li'. Debes asegurarte que tu archivo tenga extension .html
 ```
 
 ```html
