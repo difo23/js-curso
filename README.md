@@ -14,30 +14,91 @@ Manos a la obra!
 
 `Prof. Remote Repo link : https://github.com/difo23/js-curso.git`
 
-
 ## Temario del Curso:
 
-* [ ] Conceptos de algoritmos con diagrama de flujo.
-* [ ] Introducción a `MarkDown`.
-* [ ] Lenguaje de programación.
-* [ ] Paradigmas de programación.
-* [ ] `JavaScript`.
-* [ ] Uso de `VSC` y herramientas de `Debugging` con `Node` y `Chrome`.
-* [ ] Conceptos de `GUI`, `CLI` y `API`.
+### Semana 0 Ambientación:
+
+- [x] Presentación de los estudiantes y maestros.
+- [x] Presentación de la asignatura y métodos de evaluación.
+- [x] (Curso titular) Creación del gobierno del cambio.
+- [x] Normas y reglas del aula.
+
+### Semana 1-6 Conceptos básicos:
+
+* [x] Sistemas de numeración.
+* [x] Conversiones de Decimal a Binario y viceversa.
+* [x] Aplicación del sistema de numeración Binario: Direcciones IP (Internet Protocol)
+* [ ] Conversiones de Hexadecimal  a decimal.
+* [ ] Conversiones de Hexadecimal a binario y viceversa.
+* [ ] Repaso de algoritmos con diagrama de flujo conversiones entre sistemas.
+* [ ] Repaso de Javascript con sistemas de numeración.
+* [ ] Interfaz de linea de comandos (**CLI**).
 * [ ] Uso básico de la terminal con `bash`.
+* [ ] Creación de rutas relativas y absolutas.
+* [ ] Proyecto: Crear tu propio sistema de numeración y código.
+
+### Semana 4 - 8 Documentación y  Entorno de Desarrollo Integrado (IDE)
+
+* [ ] Uso de `MarkDown`. (Typora y Github) 
+* [ ] Introducción a los roles de la web: Frontend y Backend.
+* [ ] Archivo README.md
+* [ ] Versionado semántico de software.
+* [ ] Lenguaje de programación interpretados y compilados.
+* [ ] Introducción a Javascript desde la consola de Chorme.
+* [ ] EcmaScript  y sus distintas versiones.
+* [ ] Concepto de programación: variables, ciclos, condiciones, funciones y clases.
+* [ ] Paradigmas de programación, orientados a objetos e imperativa.
+* [ ] Uso de `VSC` y herramientas de `Debugging` con `Node` y `Chrome`.
 * [ ] Conceptos básicos del `DOM`. 
-* [ ] Relación entre `JS`, `HTML` y el `DOM` con el objeto `documents`.
-* [ ] Uso básico de `Git` y  `GitHub`.
-* [ ] Conceptos básicos de variables y tipos de datos.
-* [ ] Conceptos de operadores.
-* [ ] Conceptos de alcance global y local.
+* [ ] Relación entre `JS`, `CSS`, `HTML` y el `DOM` con el objeto `documents`.
+* [ ] Control de versiones con `git`
+* [ ] Uso básico de `GitHub`
+* [ ] Proyecto: Crear repositorio en Github con todos los apuntes de este modulo en archivos .md
+
+### |Semana 8- 12  Frontend
+
+* [ ] Introducción a HTML estructura semantica.
+
+* [ ] Modelo de caja para componentes HTML:  Marging, Border, Padding y Content.
+
+* [ ] Elementos en linea y en bloque.
+
+* [ ] Atributos en HTML.
+
+* [ ] Introducción a CSS y CSSDOM.
+
+* [ ] Selectores en CSS y atributos (class y id)
+
+* [ ] Colores en hexadecimal con CSS.
+
+* [ ] Flexbox  - Completar juego online.
+
+* [ ] Grid - Completar juego online.
+
+* [ ] Frameworks para estilos: Bootstrap.
+
+* [ ] Maquetacion web
+
+* [ ] Web responsive
+
+  
+
+* [ ] Herramientas para desarrolladores Frontend
+
 * [ ] Conceptos de bloques condicionales.
+
 * [ ] Conceptos de bloques para ciclos.
+
 * [ ] Conceptos de bloques para funciones.
+
 * [ ] Estructuras de datos básicas `arreglo`, `objeto-tabla-hash` y `lista enlazada`.
+
 * [ ] Concepto de bloques para `clases`.
+
 * [ ] Primeros pasos con `NodeJs` y `NPM`.
+
 * [ ] Crear aplicaciones `CLI` con `node`.
+
 * [ ] Entrega final proyectos (`repo` en `github`) y portafolio (físico) de conceptos básicos de JS
 
 
