@@ -1,6 +1,6 @@
-# JavaScript FreeCodeCamp Part 2
+# JavaScript  Part 2
 
-## 
+ 
 
 [ES6](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/#es6)
 
@@ -12,8 +12,6 @@ ES6, lanzado en 2015, añadió muchas nuevas y potentes características al leng
 
 ### Temario
 
-
-
 ### Tipos de variables let, const y var
 
 - [ ] Explora las diferencias entre las palabras claves var y let
@@ -21,10 +19,16 @@ ES6, lanzado en 2015, añadió muchas nuevas y potentes características al leng
 - [ ] Declara una variable de sólo lectura con la palabra clave const 
 - [ ] Muta un arreglo declarado con const
 - [ ] Prevenir la mutación del objeto 
+
+### Funciones Flecha
+
 - [ ] Usa funciones flecha para escribir funciones anónimas de manera breve
 - [ ] Escribe funciones flecha con parámetros
 - [ ] Establece parámetros por defecto para tus funciones
 - [ ] Utiliza el parámetro rest con parámetros de función
+
+### Operadores de propagacion y desestructuracion
+
 - [ ] Utiliza el operador de propagación para evaluar los arreglos en el lugar
 - [ ] Usa sintaxis de desestructuración para extraer valores de objetos
 - [ ] Usa sintaxis de desestructuración para asignar variables desde objetos
@@ -32,17 +36,29 @@ ES6, lanzado en 2015, añadió muchas nuevas y potentes características al leng
 - [ ] Usa sintaxis de desestructuración para asignar variables desde arreglos
 - [ ] Utiliza la sintaxis de desestructuración con el parámetro rest para reasignar elementos de un arreglo
 - [ ] Utiliza sintaxis de desestructuración para pasar un objeto como parámetro de función
+
+### Plantillas literales
+
 - [ ] Crea cadenas usando plantillas literales
 - [ ] Escribe declaraciones concisas de objecto literales usando la abreviatura de propiedad de objeto
+
+### Funciones y classes
+
 - [ ] Escribe funciones breves y declarativas con ES6
 - [ ] Usa sintaxis de clases para definir una función constructora
 - [ ] Utiliza getters (accesores) y setters (mutadores) para controlar el acceso a un objeto
+
+### Modulos para exportacion e importacion  de elementos 
+
 - [ ] Crea un módulo para scripts
 - [ ] Utiliza la exportación para compartir un bloque de código
 - [ ] Reutiliza código de JavaScript utilizando import
 - [ ] Use * para importar todo de un archivo
 - [ ] Crear un fallback de exportación con export default
 - [ ] Importa una exportación por defecto
+
+### Promesas en JavaScript
+
 - [ ] Crea una promesa de JavaScript
 - [ ] Cumpleta una promesa con "resolve" y "reject"
 - [ ] Maneja una promesa cumplida usando then

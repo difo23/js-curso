@@ -1,4 +1,4 @@
-# JavaScript FreeCodeCamp Part 1
+# JavaScript  Part 1
 
 ## Temario
 
@@ -148,3 +148,25 @@ En este curso, aprenderás conceptos fundamentales de programación en JavaScrip
 - [ ] Usa múltiples operadores condicionales (ternarios)
 - [ ] Utiliza recursión para crear una cuenta regresiva
 - [ ] Usa recursión para crear un rango de números
+
+[Depuración](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/#debugging)
+
+La depuración es el proceso de revisar tu código, encontrando cualquier problema, y arreglándolo.
+
+Los problemas en el código generalmente vienen en tres formas: errores de sintaxis que impiden que tu programa se ejecute, errores de tiempo de ejecución donde tu código tiene un comportamiento inesperado, o errores lógicos donde tu código no hace lo que pretendes.
+
+En este curso, aprenderás como usar la consola de JavaScript para depurar programas y prevenir errores comunes antes de que ocurran.
+
+- [ ] Usa la consola de JavaScript para comprobar el valor de una variable
+- [ ] Entendiendo la consola del navegador
+- [ ] Utiliza typeof para comprobar el tipo de una variable
+- [ ] Captura nombres de variables y funciones mal escritos
+- [ ] Captura paréntesis, corchetes, llaves y comillas sin cerrar
+- [ ] Captura el uso mixto de comillas simples y dobles
+- [ ] Captura el uso del operador de asignación en lugar del operador de igualdad
+- [ ] Captura los paréntesis de apertura y cierre que faltan después de una llamada a una función
+- [ ] Captura argumentos pasados en el orden incorrecto al llamar a una función
+- [ ] Captura los errores por uno al utilizar indexación
+- [ ] Ten cuidado al reinicializar variables dentro de un bucle
+- [ ] Prevenir bucles infinitos con una condición terminal válida
+

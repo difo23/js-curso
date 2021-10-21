@@ -109,3 +109,29 @@ En este curso, aprenderás los principios básicos de OOP en JavaScript incluyen
 La programación funcional es otro enfoque común en el desarrollo de software. En programación funcional, el código está organizado en funciones más pequeñas y básicas que se pueden combinar para construir programas de mayor complejidad.
 
 En este curso, aprenderás los conceptos básicos de programación funcional incluyendo funciones puras, cómo evitar mutaciones, y cómo escribir código más limpio con métodos como `.map()` y `.filter()`.
+
+- [ ] Aprende sobre programación funcional
+- [ ] Comprende la terminología de la programación funcional
+- [ ] Comprende los peligros de usar el código imperativo
+- [ ] Evita mutaciones y efectos secundarios utilizando programación funcional
+- [ ] Pasa argumentos para evitar la dependencia externa en una función
+- [ ] Refactoriza variables globales por fuera de funciones
+- [ ] Usa el método "map" para extraer datos de un arreglo
+- [ ] Implementa map en un prototipo
+- [ ] Usa el método de "filter" para extraer datos de un arreglo
+- [ ] Implementa el método filter en un prototipo
+- [ ] Devolver parte de un arreglo mediante el método slice
+- [ ] Remueve elementos de un arreglo usando slice en lugar de splice
+- [ ] Combina dos arreglos utilizando el método "concat"
+- [ ] Agrega elementos al final de un arreglo utilizando concat en lugar de push
+- [ ] Utiliza el método "reduce" para analizar datos
+- [ ] Utiliza las funciones de orden superior "map", "filter" o "reduce" para resolver un problema complejo
+- [ ] Ordena un arreglo alfabéticamente con el método sort
+- [ ] Devuelve un arreglo ordenado sin cambiar el arreglo original
+- [ ] Divide una cadena en un arreglo utilizando el método "split"
+- [ ] Combina un arreglo en una cadena utilizando el método "join"
+- [ ] Aplicar programación funcional para convertir cadenas a slugs de URL
+- [ ] Usa el método "every" para comprobar que cada elemento de un arreglo atienda un criterio
+- [ ] Usa el método "some" para comprobar si algún elemento en un arreglo cumple un criterio
+- [ ] Introducción a la currificación y a la aplicación de funciones parciales
+

@@ -66,3 +66,4 @@ Completa estos 5 proyectos de JavaScript para obtener la certificación algoritm
 - [Cifrado César](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher)
 - [Validador de números telefónicos](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator)
 - [Caja registradora](https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/cash-register)
+
