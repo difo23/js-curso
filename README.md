@@ -1,4 +1,4 @@
-# Curso inicial para desarrollo de aplicaciones con JS.
+# Curso inicial para desarrollo de aplicaciones.
 
 Curso básico de desarrollo de aplicaciones con JS. El objetivo de este curso es preparar al estudiante para inicial su carrera como programador  con todas las herramientas esenciales para este trabajo. 
 
@@ -26,24 +26,56 @@ Manos a la obra!
 ### Semana 1-6 Conceptos básicos:
 
 * [x] Sistemas de numeración.
+
 * [x] Conversiones de Decimal a Binario y viceversa.
+
 * [x] Aplicación del sistema de numeración Binario: Direcciones IP (Internet Protocol)
-* [ ] Conversiones de Hexadecimal  a decimal.
-* [ ] Conversiones de Hexadecimal a binario y viceversa.
-* [ ] Repaso de algoritmos con diagrama de flujo conversiones entre sistemas.
-* [ ] Repaso de Javascript con sistemas de numeración.
-* [ ] Interfaz de linea de comandos (**CLI**).
-* [ ] Uso básico de la terminal con `bash`.
+
+* [x] Conversiones de Hexadecimal  a decimal.
+
+* [x] Conversiones de Hexadecimal a binario y viceversa.
+
+* [x] Repaso de algoritmos con diagrama de flujo conversiones entre sistemas.
+
+  - Binario a Decimal.
+  - Decimal a Binario.
+  - Hexadecimal a Decimal.
+  - Decimal a Hexadecimal.
+  - Hexadecimal a Binario.
+  - Binario a Hexadecimal.
+
+* [ ] Repaso de Javascript con sistemas de numeración. 
+
+  - Variabales y operadores
+  - Condiciones
+  - Ciclos
+  - Funciones
+  - Objetos y Clases
+
 * [ ] Creación de rutas relativas y absolutas.
-* [ ] Proyecto: Crear tu propio sistema de numeración y código.
+
+* [ ] Proyecto: 
+
+  - Crear dos grupos
+
+  - Cada grupo crea su propio sistema de numeración.
+  - Su sistema debe tener base, símbolos y estar basado en posiciones.
+  - Crear 10 conversiones de su sistema y viceversa,  4 Binario,  4 Hexadecimal y  2 decimal
+  - Cada equipo resolvera un problema seleccionado aleatoriamente
+  - El equipo que complete la operacion correcta primero gana el punto.
+  - El primer equipo en llegar a 10 soluciones correctas gana el  juego.
 
 ### Semana 4 - 8 Documentación y  Entorno de Desarrollo Integrado (IDE)
 
+* [ ] Creación de entorno de trabajo.
 * [ ] Uso de `MarkDown`. (Typora y Github) 
-* [ ] Introducción a los roles de la web: Frontend y Backend.
+* [ ] Introducción a los roles de la web: **Frontend y Backend.**
 * [ ] Archivo README.md
 * [ ] Versionado semántico de software.
 * [ ] Lenguaje de programación interpretados y compilados.
+* [ ] Introducción a Bash.
+* [ ] Interfaz de linea de comandos (**CLI**).
+* [ ] Uso básico de la terminal con `bash`.
 * [ ] Introducción a Javascript desde la consola de Chorme.
 * [ ] EcmaScript  y sus distintas versiones.
 * [ ] Concepto de programación: variables, ciclos, condiciones, funciones y clases.
@@ -55,7 +87,7 @@ Manos a la obra!
 * [ ] Uso básico de `GitHub`
 * [ ] Proyecto: Crear repositorio en Github con todos los apuntes de este modulo en archivos .md
 
-### |Semana 8- 12  Frontend
+### Semana 8- 12  Frontend
 
 * [ ] Introducción a HTML estructura semantica.
 
@@ -76,30 +108,25 @@ Manos a la obra!
 * [ ] Grid - Completar juego online.
 
 * [ ] Frameworks para estilos: Bootstrap.
-
 * [ ] Maquetacion web
-
 * [ ] Web responsive
+* [ ] Frameworks y Librerias para Frontend
 
   
 
+## Semana 12-14 Lenguaje de programacion
+
 * [ ] Herramientas para desarrolladores Frontend
-
 * [ ] Conceptos de bloques condicionales.
-
 * [ ] Conceptos de bloques para ciclos.
-
 * [ ] Conceptos de bloques para funciones.
-
 * [ ] Estructuras de datos básicas `arreglo`, `objeto-tabla-hash` y `lista enlazada`.
-
 * [ ] Concepto de bloques para `clases`.
-
 * [ ] Primeros pasos con `NodeJs` y `NPM`.
-
 * [ ] Crear aplicaciones `CLI` con `node`.
-
 * [ ] Entrega final proyectos (`repo` en `github`) y portafolio (físico) de conceptos básicos de JS
+
+
 
 
 ## Evaluación:

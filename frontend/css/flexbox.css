@@ -1,0 +1,17 @@
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#block1 {
+    width: 200px;
+    height: 200px;
+    background-color: #f00;
+    margin: 10px;
+}
+
